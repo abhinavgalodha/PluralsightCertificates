@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Introduction](#introduction)
+  - [Architecture](#architecture)
+  - [C](#c)
+  - [Communication](#communication)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Introduction
 This repository contains a collection of all **My** Certificates for the completed Courses from Pluralsight.
 
