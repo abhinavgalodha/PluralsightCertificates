@@ -5,7 +5,6 @@
 - [Introduction](#introduction)
   - [Architecture](#architecture)
   - [C](#c)
-  - [Communication](#communication)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
